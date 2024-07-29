@@ -1,0 +1,26 @@
+import java.util.*;
+
+class java13
+{
+    public static void main(String[] args)
+    {
+        Date date = new Date(0,0,0);
+        Scanner sc = new Scanner(System.in);
+    
+        System.out.println("Enter Date:-");
+        int d = sc.nextInt();
+
+        System.out.println("Enter Month:-");
+        int m = sc.nextInt();
+
+        System.out.print("Enter year:-");
+        int y = sc.nextInt();
+
+        Data da = new Data(d,m,y);
+
+        da.display();
+
+        System.out.println("23DIT012 kris gadara");
+    }
+        
+}
