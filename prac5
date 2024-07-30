@@ -4,7 +4,7 @@ class java5
 { 
 
   public static void main(String[] args) 
-        {             int i=1,guess=5; 
+        {          rgrfjbjbkb   int i=1,guess=5; 
             //System.out.println("Choose the number");             Random R_no = new Random();             int x=R_no.nextInt(guess); 
                 do 
             { 
